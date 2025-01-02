@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Header](https://www.google.com.vn/search?q=gif+header&udm=2#vhid=tvZ7IYG381i-OM&vssid=mosaic)](https://www.youtube.com/watch?v=hu8VcmkM0yI)
+[![Header](https://i.pinimg.com/originals/6f/04/0b/6f040b4a4db555dd98a603a81872ecdf.gif)](https://www.youtube.com/watch?v=hu8VcmkM0yI)
 
-<--[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) /-->
+[![divuzha.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.divuzha.com/) 
 
 **Languages I have used**
 
